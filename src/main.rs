@@ -1,4 +1,3 @@
-use std::io;
 use std::io::stdin;
 use std::process::exit;
 
